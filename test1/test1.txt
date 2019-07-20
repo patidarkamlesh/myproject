@@ -1,3 +1,5 @@
 This is a new test for you to do the other things.
 
 My New changes on the same line.
+
+Making changes for merge conflict changes.
